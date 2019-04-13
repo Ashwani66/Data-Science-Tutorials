@@ -134,7 +134,7 @@ Useful links for Data Visualization -
 3) Top 50 matplotlib Visualizations – The Master Plots (with full python code).
 (https://lnkd.in/fGrnGax)
 
-4) Data Visualization Effectiveness Profile.
+4) Data Visualization   Effectiveness Profile.
 (https://lnkd.in/f3v52Fd)
 
 5) The Visual Perception of Variation in Data Displays.
